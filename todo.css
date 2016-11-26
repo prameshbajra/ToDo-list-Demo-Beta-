@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+}
+
+#ulList {
+    margin-top: 3%;
+}
