@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color: #00a7ef;
     color: black;
     text-align: center;
     font-family: cursive;
@@ -13,4 +13,9 @@ body {
 
 #ulList {
     margin-top: 3%;
+}
+
+b {
+    font-weight: lighter;
+    font-size: 150%;
 }
