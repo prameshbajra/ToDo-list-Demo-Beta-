@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #00a7ef;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+}
+
+#ulList {
+    margin-top: 3%;
+}
+
+b {
+    font-weight: lighter;
+    font-size: 150%;
+}
